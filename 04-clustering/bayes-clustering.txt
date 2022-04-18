@@ -1,0 +1,11 @@
+Prvni poradna bayesovska uloha: Clustering
+
+Kapitoly 20 a 22 v MacKay
+http://www.inference.org.uk/mackay/itila/book.html
+
+Bishop: Pattern Recognition and Machine learning, chapter 9
+Hastie Tibshirani: Statistical learning theroy, chapter 10
+
+visualisace:
+https://www.youtube.com/watch?v=5I3Ei69I40s
+https://www.youtube.com/watch?v=wvsE8jm1GzE  od 2:15

@@ -1,1 +1,1 @@
-# kma-bayes
+# KMA/BAYES
